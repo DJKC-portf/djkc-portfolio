@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://bouyronibmvio"]
+
+[node name="Node2D" type="Node2D" unique_id=459595748]
+
+[node name="Label" type="Label" parent="." unique_id=1898075442]
+offset_left = 151.0
+offset_top = 90.0
+offset_right = 215.0
+offset_bottom = 113.0
+text = "wahhhh"
